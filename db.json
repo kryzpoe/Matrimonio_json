@@ -1,0 +1,20 @@
+{
+    "matrimonio":[ {
+        "nombre":"Argollas de matrimonio",
+        "avartar":"https://i.imgur.com/o1wwMtC.jpg",
+        "detalle":"Argollas de matrimonio media caña en oro 18k"
+    },{
+        "nombre":"Ilusiones de compromiso",
+        "avartar":"https://i.imgur.com/OoV3qEj.jpg",
+        "detalle":"Iluciones en plata 950"
+    },{
+        "nombre":"Argolla de matrimonio",
+        "avartar":"https://i.imgur.com/YbbU9xB.jpg",
+        "detalle":"Argollas de plata 950 y oro 18k, con diseño personalizado"
+    },{
+        "nombre":"Argolla de matrimonio",
+        "avartar":"https://i.imgur.com/6Olnr6i.jpg",
+        "detalle":"Argolla de plata 950 y oro 18k, con diseño espiga"
+    }
+  ]
+}
